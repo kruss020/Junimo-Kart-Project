@@ -1,0 +1,9 @@
+gymnasium>=1.1.0
+torch>=2.7.0
+numpy>=2.0.0
+matplotlib>=3.9.0
+pygame>=2.6.0
+Pillow>=11.0.0
+imageio>=2.37.0
+ipython>=8.0.0
+jupyter>=1.1.0
