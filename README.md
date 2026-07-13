@@ -90,11 +90,30 @@ Junimo-Kart-Project/
 - **Final Report** – Detailed documentation covering the environment, methodology, experiments, implementation challenges, and conclusions.
 
 ## Final Report
-A detailed write-up of the project is available in
-CS258_Final_Report.pdf
+
+A detailed write-up of the project, including the environment design, methodology, experiments, and results, is available in **CS258_Final_Report.pdf**.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kruss020/Junimo-Kart-Project.git
+cd Junimo-Kart-Project
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open **JunimoKart.ipynb** in Jupyter Notebook or JupyterLab to train, evaluate, or visualize the reinforcement learning agents.
 
 ## Future Work
-- SAC
-- DDPG
-- Behavioral cloning
-- Better reward shaping
+
+Possible extensions include:
+- Implementing additional RL algorithms such as SAC and DDPG.
+- Applying imitation learning or behavioral cloning.
+- Performing hyperparameter optimization and reward shaping experiments.
+- Expanding the environment with additional levels and mechanics
